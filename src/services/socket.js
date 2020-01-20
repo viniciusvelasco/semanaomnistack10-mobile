@@ -23,4 +23,4 @@ function disconnect() {
   }
 }
 
-export { connect, disconnect };
+export { connect, disconnect, subscriobeToNewDevs };
